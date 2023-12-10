@@ -225,7 +225,7 @@ footer{
 @media only screen and (max-width: 425px) {
     .cv{
         background: #f1f1f1;
-        max-width: 90%;
+        max-width: 95%;
         margin: 0 auto;
         height: 100%;
     }
@@ -276,7 +276,7 @@ footer{
 @media only screen and (max-width: 768px) {
     .cv{
         background: #f1f1f1;
-        max-width: 900%;
+        max-width: 95%;
         margin: 0 auto;
         height: 100%;
     }
